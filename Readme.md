@@ -20,9 +20,7 @@ I'm a passionate Java developer, specializing in crafting robust REST APIs with 
 - Advanced AWS services for deployment and scaling
 
 ---
-<br><p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sulemancode&label=Profile%20views&color=0e75b6&style=flat" alt="sulemancode" />
-</p>
+
 
 
 
